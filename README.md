@@ -26,7 +26,7 @@ Make sure you have the following installed:
 1. Clone the repository and navigate into the project:
 
    ```bash
-   git clone https://github.com/your-username/react-dashboard.git
+   git clone https://github.com/cobrianz/ACTITO-Realtime-dashboad.git
    cd react-dashboard
    ```
 
